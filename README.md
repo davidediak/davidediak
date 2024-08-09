@@ -29,7 +29,7 @@ I’m currently learning **.NET / C#**
 
 **Languages:** PHP, Java
 
-**Tools:** Tailwind, Node.js, Docker, MySQL, PostgresSQL
+**Tools:** Tailwind, Qwik, Node.js, Docker, MySQL, PostgresSQL
 
 
 <h3> 🔧 Highlighted OSS Contributions </h3>
