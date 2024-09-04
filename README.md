@@ -2,7 +2,7 @@
 
 <h1 align="center">👋</h1>
 
-I’m currently learning **.NET / C#**
+I’m currently learning **Node.js**
 
 <h3> 🖥️ Day-to-day Setup </h3>
 
