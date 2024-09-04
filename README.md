@@ -9,7 +9,6 @@ I’m currently learning **Node.js**
 - Linux ubuntu LTS
 - Oh my zsh, plugins: git,  zsh-autosuggestions,  zsh-shift-select
 - VS Code
-- Excalidraw
 - GitLab
 - DBeaver
 
