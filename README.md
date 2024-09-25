@@ -22,13 +22,13 @@ I’m currently learning **Node.js**
 
 ⭐⭐
 
-**Tools:** React, Nx, Jest, Git
+**Tools:**  Node.js, React, Nx, Jest, Git
 
 ⭐
 
 **Languages:** PHP, Java
 
-**Tools:** Tailwind, Qwik, Node.js, Docker, MySQL, PostgresSQL
+**Tools:** Tailwind, Qwik, Docker, MySQL, PostgresSQL
 
 
 <h3> 🔧 Highlighted OSS Contributions </h3>
