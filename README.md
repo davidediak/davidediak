@@ -28,7 +28,7 @@ I’m currently learning **Node.js**
 
 **Languages:** PHP, Java
 
-**Tools:** Tailwind, Qwik, Docker, MySQL, PostgresSQL
+**Tools:** Tailwind, Qwik, Hono.js, Docker, MySQL, PostgreSQL
 
 
 <h3> 🔧 Highlighted OSS Contributions </h3>
