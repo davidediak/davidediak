@@ -2,34 +2,6 @@
 
 <h1 align="center">👋</h1>
 
-I’m currently learning **Node.js**
-
-<h3> 🖥️ Day-to-day Setup </h3>
-
-- Linux ubuntu LTS
-- Oh my zsh, plugins: git,  zsh-autosuggestions,  zsh-shift-select
-- VS Code
-- GitLab
-- DBeaver
-
-<h3> 👨‍💻 Skills </h3>
-
-⭐⭐⭐
-
-**Languages:** Typescript, Javascript
-
-**Tools:** Angular, RxJS, PrimeNG, HTML, CSS, SCSS
-
-⭐⭐
-
-**Tools:**  Node.js, React, Nx, Jest, Git
-
-⭐
-
-**Languages:** PHP, Java
-
-**Tools:** Tailwind, Qwik, Hono.js, Docker, MySQL, PostgreSQL
-
 
 <h3> 🔧 Highlighted OSS Contributions </h3>
 
